@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate 
-title:  This is SunYan
+title: This is SunYan
 description: Unique
 plugins: 
     - jemoji 
-url: "https://sunyann.github.io/" 
+url: "https://sunyan.github.io/" 
 markdown: kramdown
