@@ -1,1 +1,10 @@
 
+Voila:
+
+theme: jekyll-theme-slate 
+title:  
+description:
+plugins: 
+    - jemoji 
+url: "" 
+markdown: kramdown
