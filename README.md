@@ -3,7 +3,7 @@ study
 # Welcome to my homepage!
 
 Hi! I'm Sun Yan. If you want to know more about me, you can read my homepage.
-
+I love chatting and travelling.Also, I like dancing.
 
 # Hobby
 
